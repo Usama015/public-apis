@@ -1,5 +1,5 @@
 {
-"count": 1432,
+"count": 1438,
 "entries": [
     {
         "API": "AdoptAPet",
@@ -3539,6 +3539,15 @@
         "Category": "Development"
     },
     {
+        "API": "Svix",
+        "Description": "Webhooks as a Service",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://www.svix.com",
+        "Category": "Development"
+    },
+    {
         "API": "Tolgee",
         "Description": "Open-source localization (i18n) platform enabling you to translate you app fast",
         "Auth": "apiKey",
@@ -4085,6 +4094,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://mailtrap.docs.apiary.io/#",
+        "Category": "Email"
+    },
+    {
+        "API": "Proweblook Email Checker",
+        "Description": "Validate email addresses without sending",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://proweblook.com/email-verifier",
         "Category": "Email"
     },
     {
@@ -6524,6 +6542,15 @@
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://postcodes.io",
+        "Category": "Geocoding"
+    },
+    {
+        "API": "Proweblook IP Checker",
+        "Description": "Proweblook lookup & Geolocation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://proweblook.com/ipapi",
         "Category": "Geocoding"
     },
     {
@@ -9200,12 +9227,30 @@
         "Category": "Phone"
     },
     {
+        "API": "Proweblook Phone Number Checker",
+        "Description": "Phone number validation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://proweblook.com/phone-number-validator",
+        "Category": "Phone"
+    },
+    {
         "API": "Veriphone",
         "Description": "Phone number validation & carrier lookup",
         "Auth": "apiKey",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://veriphone.io",
+        "Category": "Phone"
+    },
+    {
+        "API": "Proweblook Whatsapp Contact Checker",
+        "Description": "Whatsapp number validation",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://proweblook.com/whatsapp-number-checker",
         "Category": "Phone"
     },
     {
@@ -10160,6 +10205,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://vuldb.com/?doc.api",
+        "Category": "Security"
+    },
+    {
+        "API": "Whoisfreaks",
+        "Description": "Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "no",
+        "Link": "https://whoisfreaks.com/",
         "Category": "Security"
     },
     {
